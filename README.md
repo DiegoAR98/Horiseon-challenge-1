@@ -10,7 +10,16 @@ No installation is required for this repository. You can simply clone or downloa
 
 ## Usage
 
-This codebase can serve as a foundation for building an accessible and search engine optimized website for a marketing agency. You can further customize and style it according to your branding and content needs.
+To navigate through our website: https://diegoar98.github.io/Horiseon-challenge-1/#social-media-marketing
+
+Go to the homepage.
+Use the navigation bar at the top to explore our services:
+Search Engine Optimization
+Online Reputation Management
+Social Media Marketing
+
+![Horiseon Digital Marketing Services: A team collaborating at a desk; visuals showcasing Search Engine Optimization, Online Reputation Management, and Social Media Marketing strategies; icons representing Lead Generation, Brand Awareness, and Cost Management.](./assets/images/horiseon%20page.png)
+
 
 ## Credits
 
