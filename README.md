@@ -10,7 +10,7 @@ No installation is required for this repository. You can simply clone or downloa
 
 ## Usage
 
-To navigate through our website: https://diegoar98.github.io/Horiseon-challenge-1/#social-media-marketing
+To navigate through our website: https://diegoar98.github.io/Horiseon-challenge-1/
 
 Go to the homepage.
 Use the navigation bar at the top to explore our services:
